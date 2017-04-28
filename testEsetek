@@ -1,0 +1,5 @@
+1: Egy fire single -> primaryt süti-e el
+2: 2 fire single -> primary-t és a secondary-t is elsüti-e
+3: 4 fire single időközzel -> tényleg felváltva próbálja elsütni
+4: 2 fire single, primary üres- > elsüti-e a secondary-t 
+5: fire all -> mindkettőt elsüti-e
